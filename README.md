@@ -1,4 +1,4 @@
-About Me
+## About Me
 
 🔬 **Physics student** at **Novosibirsk State University (NSU)**
 
