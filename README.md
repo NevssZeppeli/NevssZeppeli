@@ -8,7 +8,7 @@
 
 🐍 **Currently learning:** Python for scientific computing, machine learning, and AI applications in accelerator physics  
 
-## 📊 GitHub Stats
+## Stats
 
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=NevssZeppeli&theme=tokyonight&hide_border=true&show_icons=true" alt="Nevss' GitHub stats" />
