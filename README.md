@@ -5,8 +5,11 @@
 </div>
 
 🔬 **Physics student** at **Novosibirsk State University (NSU)**
+
 ⚛️ **Student** at **Budker Institute of Nuclear Physics (BINP SB RAS)** — Department of Accelerator Physics  
+
 🚀 **Interested in:** Wakefield acceleration — plasma wakefields, beam-driven acceleration
+
 🐍 **Currently learning:** Python for scientific computing, machine learning, and AI applications in accelerator physics  
 
 ## 📊 GitHub Stats
