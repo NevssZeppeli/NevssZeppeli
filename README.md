@@ -1,9 +1,4 @@
-## 👨‍🔬 About Me
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=600&size=22&pause=1000&color=3AF73B&width=435&lines=Hi!+I'm+Nevss" alt="Typing SVG" />
-</div>
-
+About Me
 🔬 **Physics student** at **Novosibirsk State University (NSU)**
 
 ⚛️ **Student** at **Budker Institute of Nuclear Physics (BINP SB RAS)** — Department of Accelerator Physics  
